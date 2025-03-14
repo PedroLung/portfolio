@@ -9,3 +9,33 @@
 body{
   font-family: 'Roboto', sans-serif;
 }
+
+/* Inicio Header */
+.nav{
+  background-color: #181818;
+  height: 80px;
+  width: 100%;
+
+  display: flex;
+  justify-content: flex-end;
+}
+
+.nav-list{
+  display: flex;
+  align-items: center;
+  list-style: none;
+  margin-right: 24px;
+}
+
+.nav-list a{
+  text-decoration: none;
+  color: #DDD;
+  padding: 20px;
+}
+
+.nav-list a:hover {
+  color: #FFFFFF;
+}
+
+/* fim header */
+
