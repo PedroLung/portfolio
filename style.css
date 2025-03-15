@@ -119,4 +119,14 @@ body{
   font-size: 32px;
   margin-bottom: 14px;
 }
+
+.about div p a{
+  text-decoration: none;
+  color: #1561a3;
+}
+
+.about div p a:hover {
+  cursor: pointer;
+}
+
 /* Fim Sobre*/
